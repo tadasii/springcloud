@@ -1,0 +1,9 @@
+server:
+  port: 7900
+spring:
+  application:
+  name: providerUser
+eureka:
+  client:
+    serviceUrl:
+    defaultZone: http://user:123@localhost:6888/eureka

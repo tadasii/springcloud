@@ -1,0 +1,7 @@
+server:
+  port: 8900
+spring:
+  application:
+  name: comsumerUser #应用名称，别名
+user:
+  url: http://127.0.0.1:7900/
