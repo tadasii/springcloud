@@ -15,6 +15,6 @@ public class ComsumerApp {
     }
     @Bean
     public RestTemplate getRest(){
-        return new RestTemplate();
+        return new RestTemplate(); //测试github
     }
 }
